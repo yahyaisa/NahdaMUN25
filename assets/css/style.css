@@ -30,28 +30,28 @@
   color: #16161a;
 }
 .theme-color {
-  color: #331391;
+  color: #09991a;
 }
 .boxed-btn {
   background: #fff;
-  color: #331391 !important;
+  color: #09991a !important;
   display: inline-block;
   padding: 18px 44px;
   font-family: "Sarabun", sans-serif;
   font-size: 14px;
   font-weight: 400;
   border: 0;
-  border: 1px solid #331391;
+  border: 1px solid #09991a;
   letter-spacing: 3px;
   text-align: center;
-  color: #331391;
+  color: #09991a;
   text-transform: uppercase;
   cursor: pointer;
 }
 .boxed-btn:hover {
-  background: #331391;
+  background: #09991a;
   color: #fff !important;
-  border: 1px solid #331391;
+  border: 1px solid #09991a;
 }
 .boxed-btn:focus {
   outline: none;
@@ -325,7 +325,7 @@ hr {
   background: #ff3500;
 }
 .btn {
-  background: #331391;
+  background: #09991a;
   padding: 27px 44px;
   color: #fff;
   cursor: pointer;
@@ -384,7 +384,7 @@ hr {
 .hero-btn {
   padding: 30px 39px;
   background: #fff;
-  color: #331391 !important;
+  color: #09991a !important;
 }
 .hero-btn::before {
   background: #e6c35c;
@@ -392,14 +392,14 @@ hr {
 .white-btn {
   padding: 30px 39px;
   background: #fff;
-  color: #331391 !important;
+  color: #09991a !important;
 }
 .black-btn {
   padding: 14px 35px;
   background: #000;
 }
 .black-btn::before {
-  background: #331391;
+  background: #09991a;
 }
 .submit-btn2 {
   background: #ec5b53;
@@ -454,7 +454,7 @@ hr {
   top: 0;
   width: 101%;
   height: 101%;
-  background: #331391;
+  background: #09991a;
   z-index: -1;
   transition: transform 0.5s;
   transition-timing-function: ease;
@@ -472,7 +472,7 @@ hr {
 }
 #scrollUp,
 #back-top {
-  background: #331391;
+  background: #09991a;
   height: 50px;
   width: 50px;
   right: 31px;
@@ -1566,7 +1566,7 @@ hr {
   position: relative;
   border-style: solid;
   border-width: 1px;
-  border-top-color: #331391;
+  border-top-color: #09991a;
   border-bottom-color: transparent;
   border-left-color: transparent;
   border-right-color: transparent;
@@ -1986,7 +1986,7 @@ hr {
   background: #16161a;
 }
 .theme-bg {
-  background: #331391;
+  background: #09991a;
 }
 .brand-bg {
   background: #f1f4fa;
@@ -2001,7 +2001,7 @@ hr {
   color: #16161a;
 }
 .theme-color {
-  color: #331391;
+  color: #09991a;
 }
 .header-area .main-header {
   padding: 0px 130px;
@@ -2062,7 +2062,7 @@ hr {
   }
 }
 .header-area .main-header .main-menu ul li:hover > a {
-  color: #331391;
+  color: #09991a;
 }
 .header-area .main-header .main-menu ul ul.submenu {
   position: absolute;
@@ -2091,7 +2091,7 @@ hr {
   margin: 0;
 }
 .header-area .main-header .main-menu ul ul.submenu > li > a:hover {
-  color: #331391;
+  color: #09991a;
   background: none;
 }
 .header-area .main-menu ul ul.submenu > li > a:hover {
@@ -2141,14 +2141,14 @@ hr {
   top: -27px;
 }
 .mobile_menu .slicknav_menu .slicknav_btn .slicknav_icon-bar {
-  background-color: #331391 !important;
+  background-color: #09991a !important;
 }
 .mobile_menu .slicknav_menu .slicknav_nav {
   margin-top: 15px !important;
 }
 .mobile_menu .slicknav_menu .slicknav_nav a:hover {
   background: transparent;
-  color: #331391;
+  color: #09991a;
 }
 .mobile_menu .slicknav_menu .slicknav_nav a {
   font-size: 15px;
@@ -2572,7 +2572,7 @@ hr {
 }
 .pricing-card-area .single-card.active .card-bottom .black-btn {
   background: #fff;
-  color: #331391 !important;
+  color: #09991a !important;
 }
 .pricing-card-area .single-card.active .card-bottom .black-btn::before {
   background: #000;
@@ -2595,7 +2595,7 @@ hr {
 .pricing-card-area .single-card:hover .card-bottom .black-btn {
   padding: 14px 35px;
   background: #fff;
-  color: #331391 !important;
+  color: #09991a !important;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .work-company .single-logo img {
@@ -2719,7 +2719,7 @@ hr {
   font-weight: 500;
 }
 .accordion .accordion-wrapper .card-header a span {
-  color: #331391;
+  color: #09991a;
   font-size: 16px;
   font-weight: 800;
 }
@@ -2766,7 +2766,7 @@ hr {
   position: absolute;
   height: 15px;
   width: 15px;
-  background: #331391;
+  background: #09991a;
   content: "";
   left: 0;
   right: 0;
@@ -2780,7 +2780,7 @@ hr {
 }
 .accordion .nav-tabs .nav-item {
   display: block;
-  color: #331391;
+  color: #09991a;
   font-size: 24px;
   font-weight: 700;
 }
@@ -2791,7 +2791,7 @@ hr {
 }
 .accordion .nav-tabs .nav-item.show .nav-link,
 .accordion .nav-tabs .nav-link.active {
-  background: #331391;
+  background: #09991a;
   color: #fff;
   -webkit-transition: all 0s ease-out 0s;
   -moz-transition: all 0s ease-out 0s;
@@ -2990,13 +2990,13 @@ hr {
   color: #fff;
 }
 .team-area .single-team .team-caption2 h3 a {
-  color: #331391;
+  color: #09991a;
 }
 .team-area .single-team .team-caption2 h3 a:hover {
-  color: #331391;
+  color: #09991a;
 }
 .team-area .single-team .team-caption2 p {
-  color: #331391;
+  color: #09991a;
 }
 .team-area .single-team:hover .team-img img {
   transform: scale(1.06);
@@ -3050,7 +3050,7 @@ hr {
   background: #060018;
 }
 .footer-area .footer-social2 a:hover {
-  background: #331391;
+  background: #09991a;
   color: #7f7f7f;
   border: 1px solid transparent;
 }
@@ -3133,12 +3133,12 @@ hr {
   border: 0;
   cursor: pointer;
   padding: 13px 22px;
-  background: #331391;
+  background: #09991a;
   line-height: 1;
   border-radius: 0 3px 3px 0;
 }
 .footer-area .info.error {
-  color: #331391;
+  color: #09991a;
 }
 .footer-bottom-area {
   background: #060018;
@@ -3165,10 +3165,10 @@ hr {
   }
 }
 .footer-bottom-area .footer-copy-right p i {
-  color: #331391;
+  color: #09991a;
 }
 .footer-bottom-area .footer-copy-right p a {
-  color: #331391;
+  color: #09991a;
 }
 .footer-bottom-area .footer-copy-right p a:hover {
   color: #fff;
@@ -3336,7 +3336,7 @@ hr {
   display: block;
 }
 .home-blog-area .home-blog-single .blog-img-cap .blog-cap h3 a:hover {
-  color: #331391;
+  color: #09991a;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .home-blog-area .home-blog-single .blog-img-cap .blog-cap h3 a {
@@ -3381,7 +3381,7 @@ hr {
 }
 .blog_area a:hover,
 .blog_area a :hover {
-  background: -webkit-linear-gradient(131deg, #331391 0%, #331391 99%);
+  background: -webkit-linear-gradient(131deg, #09991a 0%, #09991a 99%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   text-decoration: none;
@@ -3758,7 +3758,7 @@ hr {
   color: #242b5e;
 }
 .blog_details a:hover {
-  color: #331391;
+  color: #09991a;
 }
 .blog_details h2 {
   font-size: 18px;
@@ -3806,7 +3806,7 @@ hr {
   left: 10px;
   display: block;
   color: #fff;
-  background-color: #331391;
+  background-color: #09991a;
   padding: 8px 15px;
   border-radius: 5px;
 }
@@ -3875,7 +3875,7 @@ hr {
   box-shadow: none;
 }
 .blog_right_sidebar .search_widget .input-group button {
-  background: #331391;
+  background: #09991a;
   border-left: 0;
   border: 1px solid #f0e9ff;
   padding: 4px 15px;
@@ -3973,7 +3973,7 @@ hr {
   font-size: 13px;
 }
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-  background: #331391;
+  background: #09991a;
   color: #fff !important;
   -webkit-text-fill-color: #fff;
   text-decoration: none;
@@ -4148,7 +4148,7 @@ hr {
   display: inline-block;
 }
 .single-post-area .blog-author a:hover {
-  color: #331391;
+  color: #09991a;
 }
 .single-post-area .blog-author p {
   margin-bottom: 0;
