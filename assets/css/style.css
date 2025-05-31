@@ -2545,7 +2545,7 @@ hr {
   margin-bottom: 45px;
 }
 .pricing-card-area .single-card.active {
-  background: #31118f;
+  background: #09991a;
   transform: scale(1.2);
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
@@ -2578,7 +2578,7 @@ hr {
   background: #000;
 }
 .pricing-card-area .single-card:hover {
-  background: #31118f;
+  background: #09991a;
 }
 .pricing-card-area .single-card:hover .card-top {
   border-bottom: 1px solid #fff;
